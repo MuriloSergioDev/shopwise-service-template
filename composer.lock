@@ -4763,12 +4763,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/MuriloSergioDev/shopwise-contracts.git",
-                "reference": "f2c207d5cc8b69a5d680229acf613662c1e839f2"
+                "reference": "67c88f09e163b07bd0121c6d0d19b17704d295c8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/MuriloSergioDev/shopwise-contracts/zipball/f2c207d5cc8b69a5d680229acf613662c1e839f2",
-                "reference": "f2c207d5cc8b69a5d680229acf613662c1e839f2",
+                "url": "https://api.github.com/repos/MuriloSergioDev/shopwise-contracts/zipball/67c88f09e163b07bd0121c6d0d19b17704d295c8",
+                "reference": "67c88f09e163b07bd0121c6d0d19b17704d295c8",
                 "shasum": ""
             },
             "require": {
@@ -4789,7 +4789,7 @@
                 "source": "https://github.com/MuriloSergioDev/shopwise-contracts/tree/main",
                 "issues": "https://github.com/MuriloSergioDev/shopwise-contracts/issues"
             },
-            "time": "2026-10-26T14:32:32+00:00"
+            "time": "2026-10-26T16:27:22+00:00"
         },
         {
             "name": "shopwise/laravel-kit",
@@ -4797,12 +4797,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/MuriloSergioDev/shopwise-laravel-kit.git",
-                "reference": "0defa413bc9b2a941661ca154b7b7ff10cbf0660"
+                "reference": "42bcbecc3b08c65b751173f770d0e8aaa90a001b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/MuriloSergioDev/shopwise-laravel-kit/zipball/0defa413bc9b2a941661ca154b7b7ff10cbf0660",
-                "reference": "0defa413bc9b2a941661ca154b7b7ff10cbf0660",
+                "url": "https://api.github.com/repos/MuriloSergioDev/shopwise-laravel-kit/zipball/42bcbecc3b08c65b751173f770d0e8aaa90a001b",
+                "reference": "42bcbecc3b08c65b751173f770d0e8aaa90a001b",
                 "shasum": ""
             },
             "require": {
@@ -4857,7 +4857,7 @@
                 "source": "https://github.com/MuriloSergioDev/shopwise-laravel-kit/tree/main",
                 "issues": "https://github.com/MuriloSergioDev/shopwise-laravel-kit/issues"
             },
-            "time": "2026-10-26T16:02:53+00:00"
+            "time": "2026-10-26T16:39:09+00:00"
         },
         {
             "name": "symfony/clock",

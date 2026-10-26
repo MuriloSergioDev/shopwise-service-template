@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use App\Models\User;
+use Shopwise\Kit\Auth\JwtUser;
 
 return [
 
@@ -66,7 +66,8 @@ return [
     'providers' => [
         'users' => [
             'driver' => 'eloquent',
-            'model' => env('AUTH_MODEL', User::class),
+            // Services own no user table: auth.jwt (shopwise/laravel-kit) resolves the request user as a JwtUser.
+            'model' => JwtUser::class,
         ],
 
         // 'users' => [
